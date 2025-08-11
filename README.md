@@ -1,6 +1,6 @@
 # Linear-Regression---Anime-Rating-Case-Study
 
-![Rating](rating-stars.png)
+![Rating](pexels-markusspiske-6879095.jpg)
 # #  Anime Rating Prediction
 
 This project predicts anime ratings based on various features such as genre, number of episodes, type, and more.  
