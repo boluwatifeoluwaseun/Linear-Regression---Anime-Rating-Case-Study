@@ -1,6 +1,6 @@
 # Linear-Regression---Anime-Rating-Case-Study
 
-![Rating](Picture.jpg)
+![alt text](Assets/Image.jpg)
 # #  Anime Rating Prediction
 ## Business Context
 
